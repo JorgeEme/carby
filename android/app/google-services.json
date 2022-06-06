@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103434841141",
+    "project_id": "car-by",
+    "storage_bucket": "car-by.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103434841141:android:6902a70a8497481c97557c",
+        "android_client_info": {
+          "package_name": "com.example.carby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103434841141-nnfd42onefm7iei1sdmij6qrfbsuvjoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAASEopv4KGUU0IFcyXYzO6NlYYipLGGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103434841141-nnfd42onefm7iei1sdmij6qrfbsuvjoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
